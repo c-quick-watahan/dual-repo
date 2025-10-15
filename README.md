@@ -1,3 +1,4 @@
 # dual-repo
 
-made changes
+Commit #1: made changes
+Commit #2: more changes
